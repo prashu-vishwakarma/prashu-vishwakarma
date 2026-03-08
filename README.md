@@ -87,11 +87,11 @@ Passionate about building scalable web applications and learning modern backend 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashu-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashu-vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prashu-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashu-vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -108,9 +108,6 @@ Passionate about building scalable web applications and learning modern backend 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/prashu-vishwakarma/prashu-vishwakarma/output/github-contribution-grid-snake.svg">
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/prashu-vishwakarma/prashu-vishwakarma/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
