@@ -109,6 +109,9 @@ Passionate about building scalable web applications and learning modern backend 
 <p align="center">
 <img src="https://raw.githubusercontent.com/prashu-vishwakarma/prashu-vishwakarma/output/github-contribution-grid-snake.svg">
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/prashu-vishwakarma/prashu-vishwakarma/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
