@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Prashu Vishwakarma</h1>
-
+<!-- Gradient Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Java+Developer;React.js+Developer;Spring+Boot+Backend+Developer;REST+API+Developer;Always+learning+new+technologies&center=true&width=500&height=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=230&section=header&text=Prashu%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Java%20Developer&descAlignY=55&descAlign=50"/>
 </p>
+
+<h3 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Prashu+Vishwakarma;Full+Stack+Java+Developer;React.js+Developer;Spring+Boot+Backend+Developer;REST+API+Developer&center=true&width=520&height=45">
+</h3>
 
 <p align="center">
 Full Stack Developer skilled in <b>Java, Spring Boot, React.js, and MySQL</b>.  
-I enjoy building scalable web applications and solving real-world problems through clean and efficient code.
+Passionate about building scalable web applications and learning modern backend technologies.
 </p>
 
 ---
