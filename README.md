@@ -26,34 +26,34 @@ Passionate about building scalable web applications and learning modern backend 
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Tools & Cloud
+### Tools & Cloud
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,aws,postman,vscode,eclipse,maven" />
 </p>
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### Front-End Developer Intern — Techplement
 - Built **10+ responsive UI components using React.js**
@@ -67,36 +67,7 @@ Passionate about building scalable web applications and learning modern backend 
 
 ---
 
-# 📌 Featured Projects
-
-## 🪪 Person–Aadhaar Management System
-**Tech:** Spring Boot, MySQL, JPA, REST API
-
-- Scalable backend using **Spring Boot MVC**
-- ORM implementation using **Hibernate**
-- Optimized SQL queries improving API response time
-
----
-
-## 🍔 FoodieHub Recipe Web App
-**Tech:** React.js, Tailwind CSS, REST APIs
-
-- Built **Single Page Application**
-- Integrated **3 external APIs**
-- Managed global state with **React Context API**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prashu-vishwakarma&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashu-vishwakarma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
+# GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashu-vishwakarma&theme=tokyonight&hide_border=true"/>
@@ -104,7 +75,7 @@ Passionate about building scalable web applications and learning modern backend 
 
 ---
 
-# 🐍 Contribution Snake Animation
+# Contribution Snake Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/prashu-vishwakarma/prashu-vishwakarma/output/github-contribution-grid-snake.svg">
@@ -112,7 +83,7 @@ Passionate about building scalable web applications and learning modern backend 
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p>
 <a href="https://linkedin.com/in/prashu-vishwakarma"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
